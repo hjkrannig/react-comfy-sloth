@@ -1,0 +1,7 @@
+{
+  "[css]": {
+    "editor.suggest.insertMode": "replace",
+    "window.zoomLevel": 2,
+    "css.enabledLanguages": ["html", "jsx", "js"]
+  }
+}
